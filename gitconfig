@@ -3,4 +3,4 @@
 	email = liuw@liuw.name
 
 [core]
-	editor = vim
+	editor = vim --cmd 'set ft=gitcommit tw=78 wrap'
