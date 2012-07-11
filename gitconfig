@@ -4,3 +4,6 @@
 
 [core]
 	editor = vim --cmd 'set ft=gitcommit tw=78 wrap'
+
+[color]
+	ui = auto
