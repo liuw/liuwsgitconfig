@@ -3,7 +3,7 @@
 	email = liuw@liuw.name
 
 [core]
-	editor = vim --cmd 'set ft=gitcommit tw=78 wrap'
+	editor = vim --cmd 'set ft=gitcommit tw=70 wrap'
 
 [color]
 	ui = auto
