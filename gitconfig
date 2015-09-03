@@ -5,6 +5,9 @@
 [core]
 	editor = vim --cmd 'set ft=gitcommit tw=70 wrap'
 
+[rerere]
+	enabled = true
+
 [color]
 	ui = auto
 
